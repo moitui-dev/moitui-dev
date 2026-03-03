@@ -6,15 +6,15 @@
 I'm an **Applied Computer Science student** passionate about building practical solutions through code. I'm on a journey to become a skilled developer and create meaningful projects.
 
 - 🔭 I'm currently working on: Building my first portfolio website
-- 🌱 I'm currently learning: [Add what you're learning - e.g., Python, JavaScript, etc.]
+- 🌱 I'm currently learning: Java, C/C++, html, css, JavaScript, Python.
 - 👯 I'm looking to collaborate on: Beginner-friendly open source projects
 - 🤔 I'm looking for help with: Improving my coding skills and best practices
 - 💬 Ask me about: My journey into tech, student life, or anything CS-related
-- 📫 How to reach me: [Add your email if you want]
-- ⚡ Fun fact: [Add something interesting about yourself]
+- 📫 How to reach me: moitui.dev@gmail.com
+- ⚡ Fun fact: GitHub has over 100 million repositories, and yours could be the next one that inspires someone!😏
 
 ## 🛠️ Tech Stack
-*I'm still building my skills, but here's what I'm learning/using:*
+*I'm still building my skills, but here's what I'm using:*
 
 **Languages:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -32,8 +32,7 @@ I'm an **Applied Computer Science student** passionate about building practical 
 ### Coming Soon! 🚧
 I'm currently working on my first projects. Check back soon to see:
 - Personal portfolio website
-- [Add any project ideas you have]
-- [Add another project idea]
+- Smart Study Companion App
 
 ## 📊 GitHub Stats
 
@@ -43,7 +42,7 @@ I'm currently working on my first projects. Check back soon to see:
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/moitui-dev)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
 
 ---
